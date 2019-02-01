@@ -1,4 +1,4 @@
 #!/bin/bash
 
 npm install
-ng build --aot=true --ec --vendor-chunk=true
+ng build --test --aot=true
